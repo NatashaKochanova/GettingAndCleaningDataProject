@@ -1,5 +1,7 @@
 The output tidy data set ("tidy_data.txt") contains 180 observations of 68 variables. The observations are means counted for measurements of means and standard deviations for each activity and subject (see "README.md" for the assignment)
 
+-------------------------------------------------------------------------------------------------------------------------
+
 VARIABLES 	  
 ---------
 CATEGORICAL: 
@@ -102,5 +104,7 @@ UNITS:
 ------
 For processed values, measured by the accelerometer: standard gravity units "g".
 For processed values, measured by the gyroscope: radians/second.
+
+-------------------------------------------------------------------------------------------------------------------------
 
 More information about the study design and the nature of the variables can be gained in the "./UCI HAR Dataset/README.txt" and "./UCI HAR Dataset/features_info.txt" files in original data folder (can be downloaded from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" according to assignment instructions).
