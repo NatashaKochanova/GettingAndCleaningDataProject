@@ -42,6 +42,7 @@ The created tidy data set "tidy_data.txt" is the so-called "wide" and meets the 
 1) Each variable forms a separate column (variable names (could be checked by the str() function) respond to column names (could be checked with names() function). Column names are variable names.
 2) Each observation forms a row (number of observations (could be checked by the str() function) responds to the number of rows in a tidy dataframe (could be checked with nrow() function)).
 3) Each type of observational unit forms a table - in this case, one observational unit responds to one table;
-4) Data is filtered (duplicated rows are removed, if occured);
+4) Data is filtered (duplicated rows are removed, if occured); 
 5) Variable names consist of letters, numbers and underscores (unnecessary characters are removed).
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
