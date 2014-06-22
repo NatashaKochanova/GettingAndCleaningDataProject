@@ -15,12 +15,12 @@ INSTRUCTIONS:
 -"activity_labels.txt", "features.txt", "features_info.txt" and "README.txt" files.
 2) The working directory should be set in R or R Studio;
 3) As the code uses ddply() function, plyr package should be installed;
-4) The code can be run with source("Run_analysis.R") function;
+4) The code can be run with source("run_analysis.R") function;
 5) The new tidy data set "tidy_data.txt" produced by the code appears in the working directory. It can be read into R with read.table() function (please, state arguments: sep="\t", header=TRUE) and reviewed with str() function.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-THE CODE ("Run_analysis.R"): 
+THE CODE ("run_analysis.R"): 
 
 1) Reads the following files into R data sets:
 -"subject_test.txt" (into "subject_test" dataset), "X_test.txt" (into "X_test" dataset) and "y_test.txt" (into "y_test" dataset) files from the "./UCI HAR Dataset/test/" folder;
